@@ -1,7 +1,7 @@
-#Udacity Memory Game Project
-### Front End Web Developer Nanodegree
+### Udacity Memory Game Project
+#### Front End Web Developer Nanodegree
 
-Game: https://ryanwaite28.github.io/udacity-memory-game/
+Game: https://vinodkumarrocky.github.io/Memory-Game/
 
 Matching Game! Click the cards to find a match. Match all 16 cards as fast and best as you can! <br/>
 
