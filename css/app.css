@@ -274,7 +274,7 @@ h1 {
   Responsive
 */
 
-@media (max-width:450px){
+@media screen and (max-width:450px){
     .deck {
         width: 82%;
         justify-content: center;
@@ -287,19 +287,19 @@ h1 {
     }
 
 }
-@media (max-width: 320px)
+@media screen and (max-width: 321px)
 {
     .deck{
         width:104%;
     }
 }
-@media (max-width: 375px){
+@media screen and (max-width: 375px){
     .deck
     {
-        width:90%;
+        width:104%;
     }
 }
-@media (min-width:600px){
+@media screen and (min-width:600px){
     .deck {
         width: 622px;
         height: 660px;
