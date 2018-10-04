@@ -287,7 +287,18 @@ h1 {
     }
 
 }
-
+@media (max-width: 320px)
+{
+    .deck{
+        width:104%;
+    }
+}
+@media (max-width: 375px){
+    .deck
+    {
+        width:90%;
+    }
+}
 @media (min-width:600px){
     .deck {
         width: 622px;
